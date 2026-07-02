@@ -263,4 +263,3 @@ flowchart TB
 [^ut-paper]: Mostafa Dehghani et al., “Universal Transformers” https://arxiv.org/abs/1807.03819
 [^parcae-paper]: “Parcae: Scaling Laws For Stable Looped Language Models” https://arxiv.org/abs/2604.12946
 [^deepseek-v2]: DeepSeek-AI, “DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model” https://arxiv.org/abs/2405.04434
-[^zenn-mermaid]: Zenn, “ZennのMarkdown記法一覧” https://zenn.dev/zenn/articles/markdown-guide
