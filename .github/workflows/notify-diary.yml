@@ -1,0 +1,22 @@
+name: Notify diary
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "articles/**"
+
+permissions: {}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start diary sync
+        env:
+          GH_TOKEN: ${{ secrets.DIARY_WORKFLOW_TOKEN }}
+        run: |
+          gh workflow run sync-zenn.yml \
+            --repo james-yusuke/diary-blog \
+            --ref main \
+            -f zenn_sha="${GITHUB_SHA}"
