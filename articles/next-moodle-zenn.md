@@ -96,4 +96,4 @@ UIデザインでも、
 
 https://github.com/james-yusuke/next-moodle
 
-一緒に「Moodleをもっと使いやすく」していけたら嬉しいです 🚀
+一緒に**Moodleをもっと使いやすく**していけたら嬉しいです 🚀
