@@ -3,7 +3,8 @@ title: "図で理解する Plan 9 アセンブリと Go の中の Plan 9"
 emoji: "🪐"
 type: "tech"
 topics: ["go", "plan9", "assembly", "compiler", "os"]
-published: false
+published: true
+published_at: "2026-06-30 09:46"
 ---
 
 Goで `.s` ファイルを書くと、`TEXT ·Add(SB), NOSPLIT, $0-24` のような見慣れない記法に出会います。これは「Plan 9というOSそのものを使っている」という意味ではなく、Plan 9系アセンブラの入力スタイルを受け継いだ、Go専用アセンブラを使うという意味です。[^go-asm]

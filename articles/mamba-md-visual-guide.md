@@ -3,7 +3,8 @@ title: "Transformerは過去を見返す。Mambaは状態を書き換える—�
 emoji: "🐍"
 type: "tech"
 topics: ["mamba", "ssm", "transformer", "llm", "pytorch"]
-published: false
+published: true
+published_at: "2026-07-16 17:38"
 ---
 
 > **長文を読むAIは、過去を全部保存するべきか。要点だけを持ち歩くべきか。**  

@@ -3,7 +3,8 @@ title: "図で理解するプログラミング言語の裏側：EBNF、AST、LL
 emoji: "🧬"
 type: "tech"
 topics: ["compiler", "llvm", "ast", "ebnf", "language"]
-published: false
+published: true
+published_at: "2026-07-05 07:45"
 ---
 
 ## はじめに

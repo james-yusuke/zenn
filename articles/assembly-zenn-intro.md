@@ -3,7 +3,8 @@ title: "図で見るアセンブリ入門：種類・書き方・x86の基本"
 emoji: "🧩"
 type: "tech"
 topics: ["assembly", "x86", "cpu", "beginner"]
-published: false
+published: true
+published_at: "2026-06-28 17:44"
 ---
 
 ## はじめに

@@ -3,7 +3,8 @@ title: "OpenMythosはFable 5 / Mythos 5を再現できているのか"
 emoji: "🧭"
 type: "tech"
 topics: ["ai", "claude", "anthropic", "llm", "pytorch"]
-published: false
+published: true
+published_at: "2026-07-03 05:28"
 ---
 
 :::message alert
