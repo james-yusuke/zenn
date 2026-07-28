@@ -4,6 +4,7 @@ emoji: "🎓"
 type: "tech"
 topics: ["nextjs","react","typescript","moodle","oss"]
 published: false
+published_at: "2026-07-27 15:07"
 ---
 
 # Moodle、正直使いにくくないですか？
