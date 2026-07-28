@@ -3,7 +3,7 @@ title: "Moodleが使いにくい！"
 emoji: "🎓"
 type: "tech"
 topics: ["nextjs","react","typescript","moodle","oss"]
-published: true
+published: false
 ---
 
 # Moodle、正直使いにくくないですか？
