@@ -4,6 +4,7 @@ emoji: "🛡️"
 type: "tech"
 topics: ["openai", "codex", "security", "github", "typescript"]
 published: true
+published_at: "2026-07-30 13:21"
 ---
 
 > 「脆弱性らしいコード」を見つけるだけなら、既存のSASTでもできる。  
