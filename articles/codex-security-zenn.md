@@ -8,7 +8,7 @@ published_at: "2026-07-30 13:21"
 ---
 
 > 「脆弱性らしいコード」を見つけるだけなら、既存のSASTでもできる。  
-> **Codex Securityが狙っているのは、その先だ。**
+> **Codex Securityが狙っているのは、その先。**
 
 2026年3月6日、OpenAIはアプリケーションセキュリティエージェント **Codex Security** を研究プレビューとして公開しました。
 さらに、CLIとTypeScript SDKを含む [`openai/codex-security`](https://github.com/openai/codex-security) も公開されています。
