@@ -4,6 +4,7 @@ emoji: "⚡"
 type: "tech"
 topics: ["xnnpack", "machinelearning", "simd", "cpu", "onnxruntime"]
 published: true
+published_at: "2026-08-18 10:30"
 ---
 
 スマホやブラウザでAIモデルを動かすとき、速さを決めるのはGPUやNPUだけではありません。
