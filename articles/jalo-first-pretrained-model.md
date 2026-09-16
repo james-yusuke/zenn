@@ -3,7 +3,8 @@ title: "初めて事前学習モデルを作った！車両の輪郭を塗る「
 emoji: "🚗"
 type: "tech"
 topics: ["python", "pytorch", "機械学習", "画像認識", "個人開発"]
-published: false
+published: true
+published_at: "2026-09-16 12:00"
 ---
 
 **初めて、自分で事前学習モデルを作りました。名前は「JALO」です。**
